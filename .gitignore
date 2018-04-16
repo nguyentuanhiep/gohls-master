@@ -1,0 +1,7 @@
+.DS_Store
+.sass-cache
+/build
+node_modules
+videos
+buildinfo.go
+LOCAL_NOTES.txt
